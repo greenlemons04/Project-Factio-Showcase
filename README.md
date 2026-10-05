@@ -43,8 +43,16 @@ I am responsible for:
 - Visual Studio
 - Git / GitHub
 
+## Development Stage
+
+Project Factio is currently in an early prototyping phase.
+
+The current build uses graybox environments and placeholder geometry while gameplay systems are developed and tested. Enemy and distraction objects are currently represented with simple placeholder shapes.
+
+The project is currently focused on building and validating core systems before final art, animation, audio, and environment polish are added.
+
 ## Project Status
 
-Currently in active development.
+Early prototype / systems development.
 
-This repository serves as a portfolio showcase for the project. The full game repository is private.
+This repository serves as a public portfolio showcase for the project. The full development repository is private.
